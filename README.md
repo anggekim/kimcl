@@ -1,12 +1,15 @@
 # Autoinstall Ajenti
 
-Installing¶
+Installing
 Caution
 Supported operating systems:
 
 Debian 9 or later
+
 Ubuntu Bionic or later
+
 RHEL 8 or later
+
 Other Linux-based systems might work, but you’ll have to use manual installation method.
 
 # Installation
