@@ -38,4 +38,4 @@ If you don’t need it for later, just delete the directory
 sudo rm -rf /etc/ajenti/
 
 ###
-Thank You. 
+# Thank You. 
